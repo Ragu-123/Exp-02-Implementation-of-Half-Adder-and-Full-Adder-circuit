@@ -88,3 +88,4 @@ FULL ADDER
 
 
 ### Result:
+![image](https://user-images.githubusercontent.com/113915622/211132682-4204b7e6-2f47-4d5e-8ff5-165ac971b86d.png)
